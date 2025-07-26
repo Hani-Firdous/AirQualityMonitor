@@ -18,10 +18,10 @@ The code (`AirQualityMonitor.ino`) reads sensor values and sends the data to Bly
 ## 📸 Project Images
 
 ### Dashboard:
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpeg)
 
-### Wiring Diagram:
-![Wiring](images/wiring.png)
+### Block Diagram:
+![Block Diagram](images/block_diagram.jpeg)
 
 ## 📦 Future Scope
 - Adding PM2.5/PM10 sensors
