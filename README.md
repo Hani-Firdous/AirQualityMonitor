@@ -16,12 +16,12 @@ This project uses NodeMCU (ESP8266) with MQ135, MQ2 gas sensors and a DHT22 sens
 The code (`AirQualityMonitor.ino`) reads sensor values and sends the data to Blynk using virtual pins V0–V4.
 
 ## 📸 Project Images
+## Block Diagram
+![Block Diagram](block_diagram.jpeg)
 
-### Dashboard:
-![Dashboard](images/dashboard.jpeg)
+## Blynk Dashboard
+![Dashboard](dashboard.jpeg)
 
-### Block Diagram:
-![Block Diagram](images/block_diagram.jpeg)
 
 ## 📦 Future Scope
 - Adding PM2.5/PM10 sensors
